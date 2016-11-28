@@ -4,6 +4,8 @@
 # This class is used to define a bicycle object
 # Edited by: Matthew Lourenco
 # Edited to make the properties visible and some changeable
+# Edited on: 28 Nov 2016
+# Fixed bug that prevents it from working in python 2.7
 
 class Bicycle:
     # this class defines a bicycle

@@ -1,6 +1,8 @@
 # Created on 22 Nov 2016
 # Created by: Matthew Lourenco
 # This is a class that defines a generic vehicle
+# Edited on: 28 Nov 2016
+# Fixed bug that prevents it from working in python 2.7
 
 class Vehicle:
     #This is a class that creates a generic vehicle

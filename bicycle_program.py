@@ -2,6 +2,8 @@
 # Created on: Sep 2016
 # Created for: ICS3U
 # This main program will create a bicycle object
+# Edited on: 28 Nov 2016
+# Fixed bug that prevents it from working in python 2.7
 
 from bicycle import *
 

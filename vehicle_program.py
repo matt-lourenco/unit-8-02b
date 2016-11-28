@@ -1,6 +1,8 @@
 # Created on 22 Nov 2016
 # Created by: Matthew Lourenco
 # This is a program that creates a custom vehicle
+# Edited on: 28 Nov 2016
+# Fixed bug that prevents it from working in python 2.7
 
 from vehicle import *
 
